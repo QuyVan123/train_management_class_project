@@ -1,0 +1,4 @@
+username,password,type,message
+admin,1,1,-1
+manager,1,2,-1
+staff,1,3,-1

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="main.Main" project="project_002" file="/project_002/src/main/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1159" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="main.MainFrame" project="project_002" file="/project_002/src/main/MainFrame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="194" x="1159" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="generalPanels.LoginPanel" project="project_002" 
+    file="/project_002/src/generalPanels/LoginPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="194" x="1715" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="generalPanels.LoginPanel.ImagePanel" project="project_002" 
+    file="/project_002/src/generalPanels/LoginPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="168" x="1507" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="generalPanels.BackPanel" project="project_002" 
+    file="/project_002/src/generalPanels/BackPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="87" x="604" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="generalPanels.AdminMenuPanel" project="project_002" 
+    file="/project_002/src/generalPanels/AdminMenuPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="2459" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="generalPanels.ManagerMenuPanel" project="project_002" 
+    file="/project_002/src/generalPanels/ManagerMenuPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="194" x="1715" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="generalPanels.StaffMenuPanel" project="project_002" 
+    file="/project_002/src/generalPanels/StaffMenuPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="194" x="2225" y="284"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="userManagementPanels.UserCreatePanel" project="project_002" 
+    file="/project_002/src/userManagementPanels/UserCreatePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="194" x="3668" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="userManagementPanels.UserManagementPanel" project="project_002" 
+    file="/project_002/src/userManagementPanels/UserManagementPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="194" x="3086" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="clientManagementPanels.ClientManagementPanel" project="project_002" 
+    file="/project_002/src/clientManagementPanels/ClientManagementPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="194" x="2852" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="clientManagementPanels.ClientCreatePanel" project="project_002" 
+    file="/project_002/src/clientManagementPanels/ClientCreatePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="194" x="2852" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="clientManagementPanels.ClientDeletePanel" project="project_002" 
+    file="/project_002/src/clientManagementPanels/ClientDeletePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="251" x="3086" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="clientManagementPanels.ClientModifyPanel" project="project_002" 
+    file="/project_002/src/clientManagementPanels/ClientModifyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="251" x="3377" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="employeeManagementPanels.EmployeeManagementPanel" project="project_002" 
+    file="/project_002/src/employeeManagementPanels/EmployeeManagementPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="194" x="2138" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="employeeManagementPanels.EmployeeCreatePanel" project="project_002" 
+    file="/project_002/src/employeeManagementPanels/EmployeeCreatePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="224" x="2006" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="employeeManagementPanels.EmployeeDeletePanel" project="project_002" 
+    file="/project_002/src/employeeManagementPanels/EmployeeDeletePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="251" x="2561" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="employeeManagementPanels.EmployeeModifyPanel" project="project_002" 
+    file="/project_002/src/employeeManagementPanels/EmployeeModifyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="603" width="251" x="2270" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="reportManagementPanels.ReportManagementPanel" project="project_002" 
+    file="/project_002/src/reportManagementPanels/ReportManagementPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="194" x="965" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="reportManagementPanels.EmployeeDisplayPanel" project="project_002" 
+    file="/project_002/src/reportManagementPanels/EmployeeDisplayPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="153" x="965" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="reportManagementPanels.ReservationDisplayPanel" project="project_002" 
+    file="/project_002/src/reportManagementPanels/ReservationDisplayPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="165" x="760" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="reportManagementPanels.StationDisplayPanel" project="project_002" 
+    file="/project_002/src/reportManagementPanels/StationDisplayPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="153" x="567" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="reservationManagementPanels.ReservationClientSearchPanel" project="project_002" 
+    file="/project_002/src/reservationManagementPanels/ReservationClientSearchPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="197" x="1437" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="reservationManagementPanels.ReservationManagementPanelOne" project="project_002" 
+    file="/project_002/src/reservationManagementPanels/ReservationManagementPanelOne.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="801" width="283" x="1158" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="stationManagementPanels.StationManagementPanel" project="project_002" 
+    file="/project_002/src/stationManagementPanels/StationManagementPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="194" x="731" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="stationManagementPanels.StationCreatePanel" project="project_002" 
+    file="/project_002/src/stationManagementPanels/StationCreatePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="194" x="333" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="stationManagementPanels.StationModifyPanel" project="project_002" 
+    file="/project_002/src/stationManagementPanels/StationModifyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="251" x="42" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="trainManagementPanels.TrainCreatePanel" project="project_002" 
+    file="/project_002/src/trainManagementPanels/TrainCreatePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="194" x="1481" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="trainManagementPanels.TrainManagementPanel" project="project_002" 
+    file="/project_002/src/trainManagementPanels/TrainManagementPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="194" x="1715" y="585"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="trainManagementPanels.TrainModifyPanel" project="project_002" 
+    file="/project_002/src/trainManagementPanels/TrainModifyPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="251" x="1715" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association id="31">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="32" name="mainFrame"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="39">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="46">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="47">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="50">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="51">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="52">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="53">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="54">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="55">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="57">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="59">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="60">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <dependency id="62">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

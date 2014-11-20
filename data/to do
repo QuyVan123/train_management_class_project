@@ -1,0 +1,70 @@
+**make sure to clear all .csv except users to fully test properly,
+**--> errors might happen if the past entries arent updated correctly, best to just clear
+
+
+MAIN THINGS LEFT TO DO
+1)RESERVATIONS
+	-->FLAGGING WHEN CHANGES HAPPENS, LINKED TO RESERVATIONS
+3)REPORTS
+
+	TRAIN
+	1)id, NOT generated, unique
+	2)should not allow to and from to be the same station DONE
+	
+	EMPLOYEE
+	1)id, generated, unique DONE
+	4)salary, make sure only number, need to make it a double  DONE
+	
+	CLIENT
+	1)id, generated, unique
+
+-->if there exists no Model in the .csv file, should give error msg
+
+login system
+-->when employee logs in, display unread messages
+
+report system
+-->found in ReportManagementPanel
+-->pretty much untouched
+
+employee system
+-->when a station is deactivated, any employees that booked reservations involving that station receive message
+		-->also im assuming that reservations are cancelled and notified to employee *same in station system
+-->staff and managers should be employees
+	-->..sync with users?
+-->employees with unread messages cannot be deleted
+-->is there only supposed to be 1 admin and 1 manager?
+
+station  system
+-->stations are found in 2 ways
+	1)selected from a presented list of stations (sorted by station name)
+	2)enter stations name and search
+-->when a station is deactivated, any employees that booked reservations involving that station receive message
+		-->also im assuming that reservations are cancelled and notified to employee *same in employee system
+
+train  system
+-->train with a reservation cannot be deactivated
+-->subroutes for trains
+-->changes in time should reflect subroutes
+-->trains are found in 2 ways
+	1)select from a presented list of trains
+	2)enter train number and search
+	
+client system
+-->any changes to a client system, should flag the reservation that client information has changed
+-->if the client has an old record that has been flagged, then before deleting the client record
+	the reservation record must be updated with client information
+	***don't know what this means
+
+reservation system
+--> when starting the system, client must be chosen first
+-->Reservation number is alphanumberic
+--> clients are found in 2 ways
+	1)enter first letter of last name of client **DONE**
+	2)enter the client's name and search
+-->after inputting to, from, capacity, arrival, departure
+	-->user is presented with list of trains, with seats to choose from
+-->existing reservations can be loaded by entering reservation number **haven't made button for this or started
+-->when modify reservations, only capacity is allowed to change
+-->when viewing, display reservation details, however does not allow modifcations
+-->when reservation is canceled, just remove from file

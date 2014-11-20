@@ -1,0 +1,3 @@
+id,firstName,lastName,address,title,phone,email,sex,birthday,dateJoined,nationalInsuranceNumber,salary
+1,John,Doe,23232 Mol,staff,519233232,hey@uwindsor.com,male,16/04/83,16/04/13,3123213,3000000
+2,Jane,Doe,4324 H,manager,312312311,hea@gmail.com,female,16/04/73,16/04/13,132123123,32234
